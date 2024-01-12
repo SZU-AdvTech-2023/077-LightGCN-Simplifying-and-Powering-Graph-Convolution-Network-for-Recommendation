@@ -1,0 +1,7 @@
+@inproceedings{REPO077,
+    author = "He, Xiangnan and Deng, Kuan and Wang, Xiang and Li, Yan and Zhang, Yongdong and Wang, Meng",
+    booktitle = "Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval",
+    pages = "639--648",
+    title = "{LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation}",
+    year = "2020"
+}
